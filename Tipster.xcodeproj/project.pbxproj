@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD19A69A214721E30013FA71 /* SettingsChangeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD19A699214721E30013FA71 /* SettingsChangeViewController.swift */; };
 		BD42CAAF214585C1005F4465 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42CAAE214585C1005F4465 /* AppDelegate.swift */; };
 		BD42CAB1214585C1005F4465 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD42CAB0214585C1005F4465 /* ViewController.swift */; };
 		BD42CAB4214585C1005F4465 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD42CAB2214585C1005F4465 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD19A699214721E30013FA71 /* SettingsChangeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsChangeViewController.swift; sourceTree = "<group>"; };
 		BD42CAAB214585C1005F4465 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD42CAAE214585C1005F4465 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD42CAB0214585C1005F4465 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 		BD42CAAD214585C1005F4465 /* Tipster */ = {
 			isa = PBXGroup;
 			children = (
+				BD19A699214721E30013FA71 /* SettingsChangeViewController.swift */,
 				BD42CAAE214585C1005F4465 /* AppDelegate.swift */,
 				BD42CAB0214585C1005F4465 /* ViewController.swift */,
 				BD42CAB2214585C1005F4465 /* Main.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				BD42CAB1214585C1005F4465 /* ViewController.swift in Sources */,
 				BD42CAAF214585C1005F4465 /* AppDelegate.swift in Sources */,
+				BD19A69A214721E30013FA71 /* SettingsChangeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
